@@ -19,6 +19,13 @@ help
 cam
 cm
 uni
+cn
+ml
+net
+icu
+cf
+ga
+
 email
 stream
 tokyo
