@@ -6,7 +6,6 @@ sbs
 date
 pw
 quest
-cd
 bid
 quest
 date
@@ -21,7 +20,6 @@ cm
 uni
 cn
 ml
-net
 icu
 cf
 ga
